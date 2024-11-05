@@ -1,3 +1,11 @@
+## [3.0.2](https://github.com/E85Addict/revanced-library/compare/v3.0.1...v3.0.2) (2024-11-05)
+
+
+### Performance Improvements
+
+* --rip-lib ([67c84a9](https://github.com/E85Addict/revanced-library/commit/67c84a97244e85a871564a89eb5d3da3bbcc486e))
+* Personal Sync Upstream ([57eef4d](https://github.com/E85Addict/revanced-library/commit/57eef4dce42106b343b97b0baace9ca147a9c52d))
+
 ## [3.0.2](https://github.com/ReVanced/revanced-library/compare/v3.0.1...v3.0.2) (2024-11-05)
 
 ## [3.0.2-dev.1](https://github.com/ReVanced/revanced-library/compare/v3.0.1...v3.0.2-dev.1) (2024-11-05)
