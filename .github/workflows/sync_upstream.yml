@@ -19,8 +19,8 @@ jobs:
         id: sync
         shell: bash
         run: |
-          git config --global user.name 'E85Addict'
-          git config --global user.email '77761710+E85Addict@users.noreply.github.com'
+          git config --global user.name 'okkidwi'
+          git config --global user.email '64502893+okkidwi@users.noreply.github.com'
           if [[ $(git log | grep Author | head -1) == *"semantic"* ]]; then
             git reset --hard HEAD~1
           fi
