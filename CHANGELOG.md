@@ -1,3 +1,21 @@
+# [3.1.0](https://github.com/okkidwi/revanced-library/compare/v3.0.2...v3.1.0) (2024-11-28)
+
+
+### Bug Fixes
+
+* Detect if app is installed by fixing inversion ([649f06b](https://github.com/okkidwi/revanced-library/commit/649f06b19dd4d2a3f3216a0b3ea947b9fe0d475f))
+
+
+### Features
+
+* Warn when option could not be set because the option does not exist ([7ec6504](https://github.com/okkidwi/revanced-library/commit/7ec650461935faf2a8fbb667db3cf137157b70b5))
+
+
+### Performance Improvements
+
+* --rip-lib ([1639e5a](https://github.com/okkidwi/revanced-library/commit/1639e5a40083d4adfade027d7c930118527e0456))
+* Personal Sync Upstream ([e8fbe8c](https://github.com/okkidwi/revanced-library/commit/e8fbe8c1c597d98c56451b0058600b3f54eb356a))
+
 # [3.1.0](https://github.com/ReVanced/revanced-library/compare/v3.0.2...v3.1.0) (2024-11-27)
 
 
